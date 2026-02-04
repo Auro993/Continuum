@@ -1,7 +1,4 @@
-// script.js
-// =======================
-// INITIALIZATION
-// =======================
+
 document.addEventListener('DOMContentLoaded', function() {
     // Initialize dark mode
     initDarkMode();
@@ -1471,4 +1468,5 @@ function importDecisions() {
     };
     
     input.click();
+
 }
