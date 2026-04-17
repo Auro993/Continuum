@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
     } else if (page === 'recall.html') {
         initRecallPage();
     }
-    
+     
     // Update quick stats on capture page
     updateQuickStats();
     
