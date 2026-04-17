@@ -11,7 +11,7 @@
     --gray: #718093;
     --shadow: 0 10px 20px rgba(0,0,0,0.1);
     --radius: 12px;
-    --transition: all 0.3s ease;
+    --transition: all 0.3s ease; 
 }
 
 /* Dark mode variables */
