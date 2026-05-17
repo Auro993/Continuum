@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {  
-    // Initialize dark mode
+    // Initialize dark mode 
     initDarkMode();
     
     // Initialize the app based on current page
